@@ -1,0 +1,6 @@
+order_id,order_date,customer_id,product,quantity,price,delivery_status,returned
+1001,2025-01-01,C001,Headphones,1,2500,Delivered,No
+1002,2025-01-01,C002,Smartwatch,1,4500,Delayed,No
+1003,2025-01-02,C003,Headphones,2,2500,Delivered,Yes
+1004,2025-01-02,C004,Speaker,1,3000,Cancelled,No
+1005,2025-01-03,C002,Speaker,1,3000,Delivered,No

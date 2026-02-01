@@ -1,0 +1,4 @@
+ticket_id,customer_id,issue_type,created_date,status,resolution_days
+T001,C002,Delivery Delay,2025-01-02,Closed,3
+T002,C003,Return Request,2025-01-03,Closed,2
+T003,C001,Payment Issue,2025-01-04,Open,
